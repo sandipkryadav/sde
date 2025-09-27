@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **AI Frameworks and LLM Modules**
 
-- 💬 Ask me about **AI, LLM, react,javascript, gcp, database**
-
-- 📫 How to reach me **sandipyadav.it@gmail.com**
+- 💬 Ask me about **Full Stack Development, Competitive Programming, Computer Architecture, Machine Learning or Linux and LLM**
 
 - ⚡ Fun fact **My brain's default mode is problem-solving.**
 
