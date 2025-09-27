@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **Full Stack Development, Competitive Programming, Computer Architecture, Machine Learning or Linux and LLM**
 
-- 📫 How to reach me **sandipyadav.it@gmail.com**
-
 - ⚡ Fun fact **My brain's default mode is problem-solving.**
 
 <h3 align="left">Connect with me:</h3>
